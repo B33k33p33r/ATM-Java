@@ -65,7 +65,7 @@ El sistema está estructurado en una sola clase (ATM.java) por simplicidad (acor
  
 📚 Aprendizajes Obtenidos 
 
-Este proyecto me permitió reforzar conceptos clave como: 
+- Este proyecto me permitió reforzar conceptos clave como: 
 
   *  Uso de clases y objetos.
   *  Manejo de colecciones (Map, List).
