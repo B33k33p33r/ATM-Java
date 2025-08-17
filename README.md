@@ -75,8 +75,6 @@ Este proyecto me permitió reforzar conceptos clave como:
      
 
 
-
- 
 🚀 Futuras Mejoras (ideas) 
 
    *  Agregar persistencia con archivos (JSON o CSV).
