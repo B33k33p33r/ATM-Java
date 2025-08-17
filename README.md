@@ -54,12 +54,12 @@ El objetivo principal es implementar un sistema funcional que simule las operaci
  
 🧱 Diseño del Sistema 
 
-El sistema está estructurado en una sola clase (ATM.java) por simplicidad (acorde al nivel del curso), pero sigue principios de POO: 
+- El sistema está estructurado en una sola clase (ATM.java) por simplicidad (acorde al nivel del curso), pero sigue principios de POO: 
 
-    Clase Account: Representa una cuenta bancaria con atributos como número, PIN, saldo y historial.
-    Mapa global accounts: Almacena todas las cuentas (simulando una base de datos en memoria).
-    Menú interactivo: Implementado con bucles y switch, permite navegar entre opciones.
-    Validaciones robustas: Evita entradas inválidas (textos en lugar de números, retiros mayores al saldo, etc.).
+    * Clase Account: Representa una cuenta bancaria con atributos como número, PIN, saldo y historial.
+    * Mapa global accounts: Almacena todas las cuentas (simulando una base de datos en memoria).
+    * Menú interactivo: Implementado con bucles y switch, permite navegar entre opciones.
+    * Validaciones robustas: Evita entradas inválidas (textos en lugar de números, retiros mayores al saldo, etc.).
     
         
  
