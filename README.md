@@ -60,44 +60,7 @@ El sistema está estructurado en una sola clase (ATM.java) por simplicidad (acor
     Mapa global accounts: Almacena todas las cuentas (simulando una base de datos en memoria).
     Menú interactivo: Implementado con bucles y switch, permite navegar entre opciones.
     Validaciones robustas: Evita entradas inválidas (textos en lugar de números, retiros mayores al saldo, etc.).
-     
-
- 
-🖥️ Cómo Ejecutar el Proyecto 
-
-    Clona o descarga el repositorio: 
-    bash
-     
-
- 
-1
-git clone https://github.com/tu-usuario/atm-simulator.git
- 
- 
-
-Compila el archivo Java: 
-bash
- 
- 
-1
-javac ATM.java
- 
- 
-
-Ejecuta el programa: 
-bash
- 
-
-     
-    1
-    java ATM
-     
-     
-
-    Usa una de las cuentas de prueba: 
-        Cuenta: 1001, PIN: 1234
-        Cuenta: 1002, PIN: 5678
-        Cuenta: 1003, PIN: 0000
+    
          
      
 
