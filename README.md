@@ -6,10 +6,10 @@ Este proyecto es una simulación básica de un cajero automático (ATM) desarrol
 
 El objetivo principal es implementar un sistema funcional que simule las operaciones básicas de un cajero automático, con un enfoque en: 
 
-    Aplicar programación orientada a objetos (POO).
-    Gestionar datos de usuarios y transacciones.
-    Validar entradas y gestionar errores.
-    Ofrecer una experiencia de usuario interactiva mediante consola.
+*    Aplicar programación orientada a objetos (POO).
+*    Gestionar datos de usuarios y transacciones.
+*    Validar entradas y gestionar errores.
+*    Ofrecer una experiencia de usuario interactiva mediante consola.
      
 
  
