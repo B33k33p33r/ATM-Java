@@ -1,5 +1,5 @@
 🏦 Simulador de Cajero Automático (ATM) – Proyecto
-
+--------------------------------------------------
 Este proyecto es una simulación básica de un cajero automático (ATM) desarrollado en Java como parte de un trabajo académico para practicar conceptos fundamentales de programación orientada a objetos, manejo de entradas/salidas, validación de datos y diseño de interfaces por consola. 
  
 🎯 Objetivo del Proyecto 
