@@ -67,11 +67,11 @@ El sistema está estructurado en una sola clase (ATM.java) por simplicidad (acor
 
 Este proyecto me permitió reforzar conceptos clave como: 
 
-    Uso de clases y objetos.
-    Manejo de colecciones (Map, List).
-    Control de flujo y excepciones.
-    Diseño de una interfaz de usuario por consola.
-    Simulación de un sistema del mundo real con lógica coherente.
+  *  Uso de clases y objetos.
+  *  Manejo de colecciones (Map, List).
+  *  Control de flujo y excepciones.
+  *  Diseño de una interfaz de usuario por consola.
+  *  Simulación de un sistema del mundo real con lógica coherente.
      
 
  
