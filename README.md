@@ -75,6 +75,7 @@ Este proyecto me permitió reforzar conceptos clave como:
      
 
 
+
  
 🚀 Futuras Mejoras (ideas) 
 
