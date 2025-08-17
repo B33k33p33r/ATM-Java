@@ -10,6 +10,8 @@ El objetivo principal es implementar un sistema funcional que simule las operaci
 *    Gestionar datos de usuarios y transacciones.
 *    Validar entradas y gestionar errores.
 *    Ofrecer una experiencia de usuario interactiva mediante consola.
+
+
      
 
  
