@@ -61,35 +61,7 @@ El sistema está estructurado en una sola clase (ATM.java) por simplicidad (acor
     Menú interactivo: Implementado con bucles y switch, permite navegar entre opciones.
     Validaciones robustas: Evita entradas inválidas (textos en lugar de números, retiros mayores al saldo, etc.).
     
-         
-     
-
- 
-📷 Captura de Ejemplo (texto) 
- 
- 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-========== MENÚ ATM ==========
-1️⃣  Consultar saldo
-2️⃣  Depositar dinero
-3️⃣  Retirar dinero
-4️⃣  Historial de transacciones
-5️⃣  Cambiar PIN
-6️⃣  Transferir a otra cuenta
-0️⃣  Salir
-👉 Elija una opción: 1
-💰 Saldo actual: $1000.00
- 
- 
+        
  
 📚 Aprendizajes Obtenidos 
 
