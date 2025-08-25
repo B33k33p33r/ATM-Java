@@ -17,10 +17,10 @@ El objetivo principal es implementar un sistema funcional que simule las operaci
  
 🛠️ Tecnologías y Herramientas Utilizadas 
 
-    Lenguaje: Java (versión 8 o superior)
-    Paradigma: Programación Orientada a Objetos (POO)
-    Herramientas: Java SE, Scanner (entrada por consola)
-    Estructuras de datos: HashMap, ArrayList, Date
+* Lenguaje: Java (versión 8 o superior)
+* Paradigma: Programación Orientada a Objetos (POO)
+* Herramientas: Java SE, Scanner (entrada por consola)
+* Estructuras de datos: HashMap, ArrayList, Date
      
 
  
