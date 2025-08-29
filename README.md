@@ -38,14 +38,14 @@ El objetivo principal es implementar un sistema funcional que simule las operaci
         - Transferir entre cuentas (simulación).
          
 
-    + Funcionalidades adicionales 
+   + Funcionalidades adicionales 
         - Historial de transacciones con marca de tiempo.
         - Cambio de PIN.
         - Transferencias entre cuentas internas.
         - Mensajes de validación y manejo de errores.
          
 
-    + Datos persistentes en memoria 
+   + Datos persistentes en memoria 
         - Cuentas pre-cargadas con saldo inicial.
         - Registro de transacciones en tiempo real.
          
