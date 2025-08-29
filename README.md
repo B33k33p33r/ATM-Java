@@ -26,32 +26,30 @@ El objetivo principal es implementar un sistema funcional que simule las operaci
  
 ✅ Funcionalidades Implementadas 
 -
-    Inicio de sesión seguro 
-        Autenticación con número de cuenta y PIN.
-        Bloqueo tras 3 intentos fallidos.
+   + Inicio de sesión seguro 
+        - Autenticación con número de cuenta y PIN.
+        - Bloqueo tras 3 intentos fallidos.
          
 
-    Operaciones bancarias básicas 
-        Consultar saldo.
-        Depositar dinero.
-        Retirar dinero.
-        Transferir entre cuentas (simulación).
+   + Operaciones bancarias básicas 
+        - Consultar saldo.
+        - Depositar dinero.
+        - Retirar dinero.
+        - Transferir entre cuentas (simulación).
          
 
-    Funcionalidades adicionales 
-        Historial de transacciones con marca de tiempo.
-        Cambio de PIN.
-        Transferencias entre cuentas internas.
-        Mensajes de validación y manejo de errores.
+    + Funcionalidades adicionales 
+        - Historial de transacciones con marca de tiempo.
+        - Cambio de PIN.
+        - Transferencias entre cuentas internas.
+        - Mensajes de validación y manejo de errores.
          
 
-    Datos persistentes en memoria 
-        Cuentas pre-cargadas con saldo inicial.
-        Registro de transacciones en tiempo real.
+    + Datos persistentes en memoria 
+        - Cuentas pre-cargadas con saldo inicial.
+        - Registro de transacciones en tiempo real.
          
      
-
- 
 🧱 Diseño del Sistema 
 -
 - El sistema está estructurado en una sola clase (ATM.java) por simplicidad (acorde al nivel del curso), pero sigue principios de POO: 
