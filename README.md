@@ -3,7 +3,7 @@
 Este proyecto es una simulación básica de un cajero automático (ATM) desarrollado en Java como parte de un trabajo académico para practicar conceptos fundamentales de programación orientada a objetos, manejo de entradas/salidas, validación de datos y diseño de interfaces por consola. 
  
 🎯 Objetivo del Proyecto 
-
+-
 El objetivo principal es implementar un sistema funcional que simule las operaciones básicas de un cajero automático, con un enfoque en: 
 
 *    Aplicar programación orientada a objetos (POO).
@@ -16,7 +16,7 @@ El objetivo principal es implementar un sistema funcional que simule las operaci
 
  
 🛠️ Tecnologías y Herramientas Utilizadas 
-
+-
 * Lenguaje: Java (versión 8 o superior)
 * Paradigma: Programación Orientada a Objetos (POO)
 * Herramientas: Java SE, Scanner (entrada por consola)
@@ -25,7 +25,7 @@ El objetivo principal es implementar un sistema funcional que simule las operaci
 
  
 ✅ Funcionalidades Implementadas 
-
+-
     Inicio de sesión seguro 
         Autenticación con número de cuenta y PIN.
         Bloqueo tras 3 intentos fallidos.
@@ -53,7 +53,7 @@ El objetivo principal es implementar un sistema funcional que simule las operaci
 
  
 🧱 Diseño del Sistema 
-
+-
 - El sistema está estructurado en una sola clase (ATM.java) por simplicidad (acorde al nivel del curso), pero sigue principios de POO: 
 
     * Clase Account: Representa una cuenta bancaria con atributos como número, PIN, saldo y historial.
@@ -64,7 +64,7 @@ El objetivo principal es implementar un sistema funcional que simule las operaci
         
  
 📚 Aprendizajes Obtenidos 
-
+-
 - Este proyecto me permitió reforzar conceptos clave como: 
 
   *  Uso de clases y objetos.
@@ -76,7 +76,7 @@ El objetivo principal es implementar un sistema funcional que simule las operaci
 
 
 🚀 Futuras Mejoras (ideas) 
-
+-
    *  Agregar persistencia con archivos (JSON o CSV).
    *  Implementar una interfaz gráfica con JavaFX o Swing.
    *  Simular autenticación biométrica (huella).
