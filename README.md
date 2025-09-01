@@ -70,15 +70,4 @@ El objetivo principal es implementar un sistema funcional que simule las operaci
   *  Control de flujo y excepciones.
   *  Diseño de una interfaz de usuario por consola.
   *  Simulación de un sistema del mundo real con lógica coherente.
-     
-
-
-🚀 Futuras Mejoras (ideas) 
--
-   *  Agregar persistencia con archivos (JSON o CSV).
-   *  Implementar una interfaz gráfica con JavaFX o Swing.
-   *  Simular autenticación biométrica (huella).
-   *  Añadir opciones de préstamo o pago de servicios.
-     
-
  
